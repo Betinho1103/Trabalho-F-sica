@@ -1,0 +1,28 @@
+h1 {
+  /*TITULO*/
+  text-align: center;
+  color: #7ab3fc;
+  font-family: Comic Sans Ms;
+}
+h2 {
+  /*PERGUNTA*/
+  text-align: center;
+  color: #ff3232;
+}
+h3 {
+  /*PERGUNTA2*/
+  text-align: center;
+  color: #ffff5b;
+}
+
+h4 {
+  /*NOMES*/
+  text-align: center;
+  color: white;
+  font-family: BankGothic Md BT;
+}
+p1 {
+  /*RESPOSTAS*/
+  color: #b7b1b4;
+  font-family: Comic Sans Ms;
+}

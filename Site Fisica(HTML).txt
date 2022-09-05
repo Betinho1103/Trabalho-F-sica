@@ -1,0 +1,157 @@
+<html>
+
+<head>
+<link href="Design.css" rel="stylesheet">  
+<title> Trabalho (Fis) </title>
+  <h1>
+
+    <font color="#7ab3fc">
+      <font face="Comic Sans MS">
+        Materiais Eletromagnétcos e Eletroimãs.</font>
+      <font color="white">
+        <font face="BankGothic Md BT">
+  </h1>
+  Grupo: Carolina, Daniel, Guilherme, Ítalo e Nathan</font>
+  <p>
+    <font color="#b7b1b4">
+      <font face="Comic Sans MS">
+        <hr>
+</head>
+
+<body>
+  <h2>
+    <font color="#ff3232"> Pergunta 1
+    </font>
+    <p>
+      <font color="#ffff5b">
+        Qual é a origem das propriedades magnéticas dos materiais? </font>
+  </h2>
+  <p1>
+    Se o magnetismo, propriedade cuja natureza vem de origem elétrica e está relacionada com cargas em movimento, logo as propriedades magnéticas dos materiais tem sua origem na estrutura eletrônica dos átomos. Vendo do ponto de vista clássico, dois tipos de movimentos estão associados ao elétron que podem explicar a origem dos momentos magnéticos: o momento angular do elétron, e o Spin do elétron. </p1>
+  <p>
+    <hr>
+  <h2>
+    <font color="#ff3232"> Pergunta 2
+    </font>
+    <p>
+      <font color="#ffff5b"> O que é momento angular e Spin? </font>
+  </h2>
+  <p2>
+    O momento angular se refere à uma grandeza física associada à rotação de um corpo, medindo a quantidade de movimento dos corpos em rotação, podendo ser definido através da seguinte fórmula:<br> L = r*m*v, dentro do sistema internacional (SI) a sua unidade de medida é kgm²/s.
+    <p>
+      Um dos princípios fundamentais da física é da conservação de momento angular, nele, implica que sem qualquer força externa aplicada ao sistema, a sua quantidade de momento angular será constante.
+    <p>
+      O Spin se é uma propriedade física que todas as partículas têm e que gera um campo magnético, sendo uma propriedade exclusivamente quântica.
+    <p>
+      Essa propriedade é o que separa as partículas subatômicas chamadas de férmions, das outras partículas subatômicas chamadas de bósons. Os férmions possuem um spin fracionário, um número representado por fração, e se apresentam em pares sempre com um apontando para cima e o outro para baixo, já os bósons são partículas que o spin é um número inteiro, sendo muito mais fáceis de se aglomerarem independentemente da direção que aponta o spin, em estados ideais, alguns bósons podem se aglomerarem a ponto de se comportar como uma só partícula, um exemplo disso é o condensado de bose-einstein e do hélio superfluido.
+  </p2>
+  <p>
+    <img src="https://cdn.discordapp.com/attachments/821494173295312937/1014695800930062436/unknown.png" />
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OM0kkinF7j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <hr>
+  <h2>
+    <font color="#ff3232"> Pergunta 3
+    </font>
+    <p>
+      <font color="#ffff5b">
+        O que são órbitas, subcamadas e camadas de um átomo? </font>
+  </h2>
+  <p3>
+    Os orbitais atômicos são áreas ao redor do núcleo onde tem maior probabilidade de se encontrar um elétron, sendo classificados como s, p, d ou f.
+    <p>
+      O orbital s tem um de uma esfera, o orbital p tem um nó angular e possui o formato de um haltere, e os orbitais d e f possuem dois e três nós angulares, respectivamente.
+    <p>
+      O agrupamento destes orbitais, se forem do mesmo tipo, gerarão uma subcamada, podendo ser denominada por s, p, d e f dependendo do tipo de orbitais, a subcamada s contém apenas um orbital, a p tem três orbitais, na subcamada d existe cinco orbitais, pôr fim a subcamada f possui sete orbitais.
+    <p>
+      De forma geral, os níveis (ou camadas) são um agrupamento de subníveis, sendo comumente representados com as letras K L M N O P Q ou, respectivamente, os números de 1 a 7, com base nele é possível ter uma média da distância do elétron ao núcleo, quanto maior o número, maior será esta distância.
+  </p3>
+  <p>
+    <img src="https://cdn.discordapp.com/attachments/821494173295312937/1014696073236840458/unknown.png" />
+    <hr>
+  <h2>
+    <font color="#ff3232"> Pergunta 4
+    </font>
+    <p>
+      <font color="#ffff5b">
+        O que é um material ferromagnético? </font>
+  </h2>
+  <p4>Os materiais ferromagnéticos formam um pequeno grupo de substâncias encontradas na natureza, que ao serem colocadas na presença de um campo magnético elas vem a se imantar fortemente, e muitas vezes o campo magnético delas é muitas vezes maior que o campo aplicado. Tendem a ser muito utilizados quando se deseja obter campos magnéticos de altas intensidades. </p4>
+  <p>
+    <hr>
+  <h2>
+    <font color="#ff3232"> Pergunta 5
+    </font>
+    <p>
+      <font color="#ffff5b">
+        O que são Domínios magnéticos?</font>
+  </h2>
+  <p5>Um domínio magnético é uma região dentro de um ímã ou material ferromagnético no qual a magnetização está em uma direção uniforme, o que significa que os momentos magnéticos individuais dos átomos estão alinhados um com o outro ou apontam para a mesma direção. </p5>
+  <p>
+    <hr>
+  <h2>
+    <font color="#ff3232"> Pergunta 6
+    </font>
+    <p>
+      <font color="#ffff5b">
+        O que é o Ponto de Curie?</font>
+  </h2>
+  <p6>Também chamado de Temperatura Curie, o Ponto de Curie é a temperatura na qual um ímã ou um material ferromagnético perde suas propriedades magnéticas. Esse fenômeno veio a ser descoberto pelo francês Pierre Curie. O calor que é fornecido por uma fonte térmica causa um desarranjo na disposição dos elétrons que compõem o material, causando a perda momentânea das propriedades magnéticas. Essa temperatura varia dependendo de qual é o material.</p6>
+  <p>
+    <hr>
+  <h2>
+    <font color="#ff3232"> Pergunta 7
+    </font>
+    <p>
+      <font color="#ffff5b">
+        O que é a Permeabilidade relativa?</font>
+  </h2>
+  <p7>A permeabilidade magnética se refere à facilidade de um objeto em possuir linhas de indução bem definidas em seu interior, ela pode ser definida pela razão entre a densidade do fluxo magnético (B) em um objeto, e a intensidade do campo magnético do exterior (H), ou seja, = B/H.
+    <p>
+      A permeabilidade magnética relativa (μᵣ) é a razão entre a permeabilidade do material (μ), e a permeabilidade no vácuo (μ₀), a mesma é uma constante dada por μ₀ = 4π 10⁻⁷.
+  </p7>
+  <p>
+    <hr>
+  <h2>
+    <font color="#ff3232"> Pergunta 8
+    </font>
+    <p>
+      <font color="#ffff5b">
+        O que é um eletroímã?</font>
+  </h2>
+  <p8>Eletroímãs são dispositivos que utilizam uma corrente elétrica para gerar um campo magnético semelhante aos encontrados em ímãs da natureza. Geralmente é construído aplicando um fio elétrico espiralado ao redor de um núcleo de ferro, aço, níquel, cobalto ou algum material ferromagnético. </p8>
+  <p>
+    <hr>
+  <h2>
+    <font color="#ff3232"> Pergunta 9
+    </font>
+    <p>
+      <font color="#ffff5b">
+        Como construir um ímã? </font>
+  </h2>
+  <p9>●1 prego;
+    <p>
+      ●Duas pilhas (De preferência pilha D ou R20) ;
+    <p>
+      ●Fio esmaltado de cobre.
+    <p>
+      Como fazer:
+    <p>
+      1. Enrole o fio esmaltado ao redor do prego, deixando 20 cm a mais para fora.
+    <p>
+      2. Raspe a ponta do fio com uma lixa (Para deixar o fio exposto).
+    <p>
+      3. Coloque as duas pilhas com os polos opostos conectados.
+    <p>
+      4. Conecte a ponta dos fios nas pilhas com ajuda de uma fita.
+  </p9>
+  <p>
+    <img src="https://cdn.discordapp.com/attachments/821494173295312937/1014712478061563935/unknown.png" />
+    <hr>
+  <p>
+    <font color="white">
+      <font face="BankGothic Md BT">
+        Grupo: Carolina, Daniel, Guilherme, Ítalo e Nathan</font>
+</body>
+</font>
+
+</html>

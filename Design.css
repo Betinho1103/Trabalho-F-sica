@@ -1,0 +1,39 @@
+html {
+  background-color: #000000;
+}
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #1d1e22;
+  padding: 10px 100px 10px 100px;
+  border: 5px solid #b7b1b4;
+}
+h1 {
+  /*TITULO*/
+  text-align: center;
+  color: #7ab3fc;
+  font-family: Comic Sans Ms;
+}
+h2 {
+  /*PERGUNTA*/
+  text-align: center;
+  color: #f50707;
+}
+h3 {
+  /*PERGUNTA2*/
+  text-align: center;
+  color: #ffdb3d;
+}
+
+h4 {
+  /*NOMES*/
+  text-align: center;
+  color: white;
+  font-family: BankGothic Md BT;
+}
+p1 {
+  /*RESPOSTAS*/
+  text-align: center;
+  color: #b7b1b4;
+  font-family: Comic Sans Ms;
+}
